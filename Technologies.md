@@ -71,6 +71,8 @@ I'm sure I can help you with the following technologies:
 [![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit)](https://www.metasploit.com/)
 [![PEASS](https://img.shields.io/badge/-PEASS-333333?style=flat&logo=PEASS)](https://github.com/peass-ng/PEASS-ng)
 
+---
+
 ## **DevOps Tools**
 
 #### Orchestration
@@ -97,6 +99,8 @@ I'm sure I can help you with the following technologies:
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions)](https://docs.github.com/en/actions)
 [![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat&logo=azure-devops)](https://azure.microsoft.com/en-us/services/devops/)
 
+---
+
 ## **Cloud Platforms**
 
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
@@ -117,3 +121,5 @@ I'm sure I can help you with the following technologies:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-333333?style=flat&logo=influxdb)](https://www.influxdata.com/)
 [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://redis.io/)
+
+---
