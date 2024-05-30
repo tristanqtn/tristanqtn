@@ -28,4 +28,4 @@ Check out some of the challenges I've tackled recently:
 
 ### 💻 Technologies
 
-Want to learn more about the technologies I work with? Check out my [technologies.md](./technologies.md) file!
+Want to learn more about the technologies I work with? Check out my [technologies.md](./Technologies.md) file!
