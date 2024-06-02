@@ -2,6 +2,14 @@
 
 ## Cyber Security Professional, CTF Player for 0xECE, and DevSecOps Enthusiast!
 
+### 🏆 Achievements
+
+Check out some of the challenges I've tackled recently:
+
+- [TryHackMe](https://tryhackme.com/p/Drachh) - Engaging in various cybersecurity challenges and learning paths.
+- [RootMe](https://www.root-me.org/Drachh) - Solving a range of security challenges to sharpen my skills.
+- Active CTF player for **0xECE**.
+
 ### 📚 Knowledge
 
 Explore some of my knowledge repositories:
@@ -18,13 +26,13 @@ Currently, I'm working on these exciting projects:
 - [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker)
 - [IT Tools](https://github.com/tristanqtn/IT-Tools)
 
-### 🏆 Achievements
+During my engineering studies, I've had the occasion to work on some cool projects too:
 
-Check out some of the challenges I've tackled recently:
-
-- [TryHackMe](https://tryhackme.com/p/Drachh) - Engaging in various cybersecurity challenges and learning paths.
-- [RootMe](https://www.root-me.org/Drachh) - Solving a range of security challenges to sharpen my skills.
-- Active CTF player for **0xECE**.
+| Applications                                                                     | Electronics                                                      | Board games                                        |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------- |
+| [Robot Controller](https://github.com/tristanqtn/Robot-Controller)               | [Neural Speech](https://github.com/tristanqtn/Neural-Speech)     | [Cluedo](https://github.com/tristanqtn/Cluedo)     |
+| [Netflix](https://github.com/tristanqtn/Netflix)                                 | [VHDL Calculator](https://github.com/tristanqtn/VHDL-Calculator) | [Saboteur](https://github.com/tristanqtn/Saboteur) |
+| [Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) |                                                                  | [Scrabble](https://github.com/tristanqtn/Scrabble) |
 
 ### 💻 Technologies
 
