@@ -16,7 +16,6 @@ Explore some of my knowledge repositories:
 
 - [Hack - Haven](https://github.com/tristanqtn/Hack-Haven) - A comprehensive repository on hacking techniques and tools.
 - [Devops - Haven](https://github.com/tristanqtn/DevOps-Haven) - Essential DevOps practices and tools.
-- [C++ Genius](https://github.com/tristanqtn/CPP-Genius) - A collection of C++ resources and implementations.
 
 ### 🚀 Projects
 
@@ -26,6 +25,8 @@ Currently, I'm working on these exciting projects:
 - [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker)
 - [IT Tools](https://github.com/tristanqtn/IT-Tools)
 
+<details>
+<summary> Other projects: </summary>
 During my engineering studies, I've had the occasion to work on some cool projects too:
 
 | Applications                                                                     | Electronics                                                      | Board games                                        |
@@ -33,6 +34,8 @@ During my engineering studies, I've had the occasion to work on some cool projec
 | [Robot Controller](https://github.com/tristanqtn/Robot-Controller)               | [Neural Speech](https://github.com/tristanqtn/Neural-Speech)     | [Cluedo](https://github.com/tristanqtn/Cluedo)     |
 | [Netflix](https://github.com/tristanqtn/Netflix)                                 | [VHDL Calculator](https://github.com/tristanqtn/VHDL-Calculator) | [Saboteur](https://github.com/tristanqtn/Saboteur) |
 | [Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) |                                                                  | [Scrabble](https://github.com/tristanqtn/Scrabble) |
+
+</details>
 
 ### 💻 Technologies
 
