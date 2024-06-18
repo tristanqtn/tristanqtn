@@ -24,6 +24,7 @@ Currently, I'm working on these exciting projects:
 - [CTFTime Integration](https://github.com/tristanqtn/CTFTime-Integration)
 - [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker)
 - [IT Tools](https://github.com/tristanqtn/IT-Tools)
+- [Pydoku](https://github.com/tristanqtn/Pydoku)
 
 <details>
 <summary> Other projects: </summary>
