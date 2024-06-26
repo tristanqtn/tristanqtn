@@ -8,7 +8,7 @@ Check out some of the challenges I've tackled recently:
 
 - [TryHackMe](https://tryhackme.com/p/Drachh) - Engaging in various cybersecurity challenges and learning paths.
 - [RootMe](https://www.root-me.org/Drachh?inc=score&lang=en) - Solving a range of security challenges to sharpen my skills.
-- Active CTF player for **0xECE**.
+- Active CTF player for [**0xECE**](https://ctftime.org/team/216659/).
 
 ### 📚 Knowledge
 
