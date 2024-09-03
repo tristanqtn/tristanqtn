@@ -10,6 +10,8 @@ Check out some of the challenges I've tackled recently:
 - [RootMe](https://www.root-me.org/Drachh?inc=score&lang=en) - Solving a range of security challenges to sharpen my skills.
 - Active CTF player for [**0xECE**](https://ctftime.org/team/216659/).
 
+I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching the top 300 at the 404 CTF. 
+
 ### 📚 Knowledge
 
 Explore some of my knowledge repositories:
