@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Tristan+-+aka+Drachh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Tristan)](https://git.io/typing-svg)
 
 ## Cyber Security Professional, CTF Player for 0xECE, and DevSecOps Enthusiast!
 
