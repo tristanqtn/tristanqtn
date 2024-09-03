@@ -40,4 +40,4 @@ During my engineering studies, I've had the occasion to work on some cool projec
 
 ### 💻 Technologies
 
-Want to learn more about the technologies I work with? Check out my [technologies.md](./Technologies.md) file!
+Want to learn more about the technologies I work with? Check out my favourite [technologies](./technologies/) !
