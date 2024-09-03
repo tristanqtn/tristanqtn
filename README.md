@@ -33,17 +33,17 @@ Currently, I'm working on these exciting projects:
 During my engineering studies, I've had the occasion to work on some cool projects too:
 
   **Apps**
-[Robot Controller](https://github.com/tristanqtn/Robot-Controller) - A robot controller simulator written in Java.
-[Netflix](https://github.com/tristanqtn/Netflix) - A copy of Netflix app written in Java to watch your favourite movies.
-[Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) - An air traffic simulator written in C++ with lots and lots of functionality.
+- [Robot Controller](https://github.com/tristanqtn/Robot-Controller) - A robot controller simulator written in Java.
+- [Netflix](https://github.com/tristanqtn/Netflix) - A copy of Netflix app written in Java to watch your favourite movies.
+- [Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) - An air traffic simulator written in C++ with lots and lots of functionality.
 
   **Electronics**
-[Neural Speech](https://github.com/tristanqtn/Neural-Speech) - A mini-home assistant hosted on Arduino board performing some sound recognition.
-[VHDL Calculator](https://github.com/tristanqtn/VHDL-Calculator) - An advanced calculator created for FPGA boards.
+- [Neural Speech](https://github.com/tristanqtn/Neural-Speech) - A mini-home assistant hosted on Arduino board performing some sound recognition.
+- [VHDL Calculator](https://github.com/tristanqtn/VHDL-Calculator) - An advanced calculator created for FPGA boards.
 
   **Board Games**
-[Scrabble](https://github.com/tristanqtn/Scrabble) - the famous spelling game written in C.
-[Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro  
+- [Scrabble](https://github.com/tristanqtn/Scrabble) - the famous spelling game written in C.
+- [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro  
 
 </details>
 
