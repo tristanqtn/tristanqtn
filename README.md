@@ -24,15 +24,14 @@ Explore some of my knowledge repositories:
 Currently, I'm working on these exciting projects:
 
 - [CTFTime Integration](https://github.com/tristanqtn/CTFTime-Integration) - A complete CTFTime API Integration to keep you informed of your team status and the incoming CTFs.
-- [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker) - An solution created to capture, store, analyze and present metrics captured from a connected object.
 - [IT Tools](https://github.com/tristanqtn/IT-Tools) - All my automation scripts and hacks to gain productivity.
-- [Pydoku](https://github.com/tristanqtn/Pydoku) - A simple but cool Python application to play sudoku on demand.
 
 <details>
 <summary> Other projects: </summary>
 During my engineering studies, I've had the occasion to work on some cool projects too:
 
 **Apps**
+- [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker) - An solution created to capture, store, analyze and present metrics captured from a connected object.
 - [Robot Controller](https://github.com/tristanqtn/Robot-Controller) - A robot controller simulator written in Java.
 - [Netflix](https://github.com/tristanqtn/Netflix) - A copy of Netflix app written in Java to watch your favourite movies.
 - [Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) - An air traffic simulator written in C++ with lots and lots of functionality.
@@ -44,6 +43,7 @@ During my engineering studies, I've had the occasion to work on some cool projec
 **Board Games**
 - [Scrabble](https://github.com/tristanqtn/Scrabble) - the famous spelling game written in C.
 - [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro. 
+- [Pydoku](https://github.com/tristanqtn/Pydoku) - A simple but cool Python application to play sudoku on demand.
 
 </details>
 
