@@ -43,7 +43,7 @@ During my engineering studies, I've had the occasion to work on some cool projec
 
   **Board Games**
 - [Scrabble](https://github.com/tristanqtn/Scrabble) - the famous spelling game written in C.
-- [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro  
+- [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro. 
 
 </details>
 
