@@ -1,6 +1,6 @@
 # 💻 Technologies
 
-I'm sure I can help you with the following technologies:
+When it comes to developing software, I majoritarily work with the following technologies:
 
 ## **Programming Languages**
 

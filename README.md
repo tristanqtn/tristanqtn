@@ -10,7 +10,7 @@ Check out some of the challenges I've tackled recently:
 - [TryHackMe](https://tryhackme.com/p/Drachh) - Engaging in various cybersecurity challenges and learning paths.
 - [RootMe](https://www.root-me.org/Drachh?inc=score&lang=en) - Solving a range of security challenges to sharpen my skills.
 
-I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching the top 300 at the 404 CTF. 
+I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching the top 300 at the 404 CTF.
 
 ### 📚 Knowledge
 
@@ -31,18 +31,21 @@ Currently, I'm working on these exciting projects:
 During my engineering studies, I've had the occasion to work on some cool projects too:
 
 **Apps**
+
 - [Rhythmic Ranker](https://github.com/tristanqtn/Rhythmic-Ranker) - An solution created to capture, store, analyze and present metrics captured from a connected object.
 - [Robot Controller](https://github.com/tristanqtn/Robot-Controller) - A robot controller simulator written in Java.
 - [Netflix](https://github.com/tristanqtn/Netflix) - A copy of Netflix app written in Java to watch your favourite movies.
 - [Cloud Express Simulator](https://github.com/tristanqtn/Cloud-Express-Simulator) - An air traffic simulator written in C++ with lots and lots of functionality.
 
 **Electronics**
+
 - [Neural Speech](https://github.com/tristanqtn/Neural-Speech) - A mini-home assistant hosted on Arduino board performing some sound recognition.
 - [VHDL Calculator](https://github.com/tristanqtn/VHDL-Calculator) - An advanced calculator created for FPGA boards.
 
 **Board Games**
+
 - [Scrabble](https://github.com/tristanqtn/Scrabble) - the famous spelling game written in C.
-- [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro. 
+- [Cluedo](https://github.com/tristanqtn/Cluedo) - an investigation game set in the Paris metro written in C++ and Allegro.
 - [Pydoku](https://github.com/tristanqtn/Pydoku) - A simple but cool Python application to play sudoku on demand.
 
 </details>
