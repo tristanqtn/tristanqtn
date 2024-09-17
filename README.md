@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Tristan)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ## Cyber Security Professional, CTF Player for 0xECE, and DevSecOps Enthusiast!
 
 ### 🏆 Achievements
