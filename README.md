@@ -16,8 +16,6 @@ Check out some of the challenges I've tackled recently:
 
 I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching the top 300 at the 404 CTF.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1709495" style='border:none;'></iframe>
-
 ### 📚 Knowledge
 
 Explore some of my knowledge repositories:
