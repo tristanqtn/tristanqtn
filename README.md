@@ -27,6 +27,7 @@ Explore some of my knowledge repositories:
 
 Currently, I'm working on these exciting projects:
 
+- [Plouf](https://github.com/tristanqtn/Plouf) - A self-hosted app to streamline your pool management embedding a logbook system.
 - [CTFTime Integration](https://github.com/tristanqtn/CTFTime-Integration) - A complete CTFTime API Integration to keep you informed of your team status and the incoming CTFs.
 - [IT Tools](https://github.com/tristanqtn/IT-Tools) - All my automation scripts and hacks to gain productivity.
 
