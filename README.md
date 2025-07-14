@@ -11,10 +11,11 @@
 Check out some of the challenges I've tackled recently:
 
 - Active CTF player for [**0xECE**](https://ctftime.org/team/216659/).
-- [TryHackMe](https://tryhackme.com/p/Drachh) - Engaging in various cybersecurity challenges and learning paths.
-- [RootMe](https://www.root-me.org/Drachh?inc=score&lang=en) - Solving a range of security challenges to sharpen my skills.
+- [HackTheBox](https://app.hackthebox.com/users/1781104) 
+- [RootMe](https://www.root-me.org/Drachh?inc=score&lang=en)
+- [TryHackMe](https://tryhackme.com/p/Drachh) 
 
-I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching the top 300 at the 404 CTF.
+I've taken part in hundreds of CTFs, but one of my greatest achievements was reaching 15th place at [FCSC 2025](https://fcsc.fr/users/1556)
 
 ### 📚 Knowledge
 
