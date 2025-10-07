@@ -4,10 +4,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="520" height="260" alt="coding gif"/>
 </div>
 
-<p align="center"><b>Purple Team operator : I hack, I detect, I build.</b> Hydrangea-C2 author • EDR/XDR evasion & detection engineering • IR on speed dial.</p>
+<p align="center"><b>Purple Team operator : I hack, I detect, I build.</b> Hydrangea & Lotus author • EDR/XDR evasion & detection engineering • IR on speed dial.</p>
 
 ### 🚀 Project
-- **Hydrangea-C2** — lightweight, operator-friendly C2 I’m building. **[Repo »](https://github.com/tristanqtn/Hydrangea-C2)**
+- **Hydrangea** — lightweight, operator-friendly C2 I’m building. **[Repo »](https://github.com/tristanqtn/Hydrangea)**
+- **Lotus** — a web extension you can use to inspect, modify and replay requests directly in your browser. **[Repo »](https://github.com/tristanqtn/Lotus)**
 
 ### 🏆 CTF
 - Player for **[0xECE](https://ctftime.org/team/216659/)** — 15ᵗʰ at **[FCSC 2025](https://fcsc.fr/users/1556)**  
