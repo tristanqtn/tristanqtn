@@ -11,9 +11,3 @@
 ### 🏆 CTF
 - Player for **[0xECE](https://ctftime.org/team/216659/)** — 15ᵗʰ at **[FCSC 2025](https://fcsc.fr/users/1556)**  
   Also on **[HackTheBox](https://app.hackthebox.com/users/1781104)** · **[RootMe](https://www.root-me.org/Drachh?inc=score&lang=en)**
-
-<a href="https://app.hackthebox.com/profile/1781104">
-        <img
-          src="https://www.hackthebox.com/badge/image/1781104"
-          alt="hackthebox"
-        >
