@@ -1,13 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&duration=2800&center=true&vCenter=true&lines=Hey%2C+I'm+Tristan;Purple+Team+Operator)](https://git.io/typing-svg)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="520" height="260" alt="coding gif"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&size=28&duration=2800&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Tristan;Purple+Team+Operator;I+break+it%2C+then+I+fix+it)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="coding gif"/>
+
+<br>
+
+I get paid to break things, then get paid again to explain how I did it.
+
+<br>
+
+![Purple Team](https://img.shields.io/badge/PURPLE_TEAM-9315B7?style=for-the-badge)
+&nbsp;
+![Offense](https://img.shields.io/badge/OFFENSE-E01E5A?style=for-the-badge)
+&nbsp;
+![Defense](https://img.shields.io/badge/DEFENSE-1D6FE0?style=for-the-badge)
+
 </div>
-
-### 🚀 Project
-- **Hydrangea** — lightweight, operator-friendly C2 I’m building. **[Repo »](https://github.com/tristanqtn/Hydrangea)**
-- **Lotus** — a web extension you can use to inspect, modify and replay requests directly in your browser. **[Repo »](https://github.com/tristanqtn/Lotus)**
-
-### 🏆 CTF
-- Player for **[0xECE](https://ctftime.org/team/216659/)** — 15ᵗʰ at **[FCSC 2025](https://fcsc.fr/users/1556)**  
-  Also on **[HackTheBox](https://app.hackthebox.com/users/1781104)** · **[RootMe](https://www.root-me.org/Drachh?inc=score&lang=en)**
