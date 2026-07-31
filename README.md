@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&size=28&duration=2800&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Tristan;Purple+Team+Operator;I+break+it%2C+then+I+fix+it)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="coding gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="520" height="260" alt="coding gif"/>
+</div>
 
 <br>
 
